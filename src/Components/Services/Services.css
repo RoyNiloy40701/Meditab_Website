@@ -1,0 +1,18 @@
+.services{
+     padding-left: 110px;
+     padding-right: 110px;
+     padding-top: 50px;
+    
+}
+.services-heading h2{
+     font-size: 36px;
+}
+
+.services-heading button{
+     background-color: rgb(255,244,247);
+     color:rgb(222,0,0);
+     font-weight: 700;
+     font-size: 15px;
+     padding: 10px 25px;
+}
+

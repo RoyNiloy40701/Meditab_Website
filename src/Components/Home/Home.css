@@ -1,0 +1,44 @@
+.body{
+     background-color: rgb(248,249,250);
+     padding-bottom: 100px;
+}
+
+.top-banner{
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+.custom-color{
+     color:rgb(245,30,90);
+}
+
+
+.topBanner-heading h1{
+     margin-top: 130px;  
+     font-weight: 600;  
+     font-size: 54px;
+     padding-left: 20px;
+  
+  
+}
+
+.topBanner-heading button{
+     margin-top:20px;
+     margin-left: 20px;
+     background-color:rgb(0,138,255) ;
+     color:rgb(254,249,249);
+     font-size: 20px;
+     padding: 10px 25px;
+}
+
+.topBanner-img  {
+     width:300px;
+    
+}
+
+
+.cover-img{
+     background-image: url('../../Images/1.jpg');
+     background-repeat: no-repeat; 
+ }
+
+

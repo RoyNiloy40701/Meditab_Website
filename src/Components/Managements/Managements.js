@@ -18,8 +18,8 @@ const Managements = () => {
           <div className="body">
           <div className="container">
                <div className=" mb-4 services-heading text-center">
-                    <h2>Management of Meditab</h2>
-                 
+                    <h2>Management of <span className="text-primary">Meditab</span></h2>
+                
                </div>
                <CardGroup>
                     <Row xs={1} md={4} className="g-4">{

@@ -12,7 +12,7 @@ const Home = () => {
                <div className="cover-img">
                     <div className="container">
                          <Row className="top-banner ">
-                              <Col xs={12} md={7} className=" topBanner-heading pe-5 ">
+                              <Col xs={12} md={7} className=" topBanner-heading">
                                    <h1>We Provide Total Health Care Solution</h1>
                                    <button className=" btn ">Learn More</button>
                               </Col>

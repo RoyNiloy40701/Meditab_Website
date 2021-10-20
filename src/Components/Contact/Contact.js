@@ -10,7 +10,7 @@ const Contact = () => {
                <div className=" container">
                     <Row>
                   
-                         <Col xs={12} md={5} >
+                         <Col xs={12} md={5}  >
 
                               <h5 className="  text-info">Contact</h5>
                               <h2 > Get In Touch With Us</h2>

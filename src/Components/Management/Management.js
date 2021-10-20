@@ -7,7 +7,7 @@ const Management = (props) => {
      return (
           <Col>
                <Card className="h-100" >
-                    <Card.Img variant="top" src={img} />
+                    <Card.Img  variant="top" src={img} />
                     <Card.Body>
                          <Card.Title>{name}</Card.Title>
                          <p>{desc}</p>

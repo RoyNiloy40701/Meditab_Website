@@ -11,6 +11,7 @@ const Services = () => {
                .then(data => setServices(data))
 
      }, []);
+     
      return (
           <div className="body">
           <div className="container services mb-5 ">
@@ -21,7 +22,6 @@ const Services = () => {
                <CardGroup>
                     <Row xs={1} md={3} className="g-4">{
                          services.map(service => <Service service={service} key={service.name}></Service>)
-
                     }
                     </Row>
                </CardGroup>

@@ -1,0 +1,50 @@
+[
+     {
+          "id": 1,
+          "name": "Prof. Dr. Zabrul SM Haque",
+          "img": "https://www.asgaralihospital.com/wp-content/uploads/2017/02/CEO-sitting-edit-1-1.jpg",
+          "desc": "CEO and Director Medical Services"
+     },
+     {
+          "id": 2,
+          "name": "Major Ranjana Williams (Retd.)",
+          "img": "https://www.asgaralihospital.com/wp-content/uploads/2019/07/Ranjana.jpg",
+          "desc": "Director Nursing"
+     },
+     {
+          "id": 3,
+          "name": "Mr. Shahriar Zaman",
+          "img": "https://www.asgaralihospital.com/wp-content/uploads/2017/02/shahriar_jaman.jpg",
+          "desc": "Senior General Manager Operations & Project Development"
+     },
+     {
+          "id": 4,
+          "name": "Mr. Kabir Uddin Tusher",
+          "img": "https://www.asgaralihospital.com/wp-content/uploads/2017/02/kabir_uddin.jpg",
+          "desc": "Senior General Manager Marketing & Business Development"
+     },
+     {
+          "id": 5,
+          "name": "Mr. Md. Yousuf Ali Prodhan",
+          "img": "https://www.asgaralihospital.com/wp-content/uploads/2017/02/yousuf_prodhan.jpg",
+          "desc": "Senior General Manager  Engineering Department"
+     },
+     {
+          "id": 6,
+          "name": "   Dr. Farah Noor",
+          "img": "https://www.asgaralihospital.com/wp-content/uploads/2020/02/Farah-noor.jpg",
+          "desc": "Senior General Manager Medical Services"
+     },
+     {
+          "id": 7,
+          "name": "  Mr. Monirul Islam Talukdar",
+          "img": "https://www.asgaralihospital.com/wp-content/uploads/2017/02/moinul_islam_talukdar.jpg",
+          "desc": "Senior General Manager  Finance & Accounts"
+     },
+     {
+          "id": 8,
+          "name": "Mr. Gazi J. U. Ahamed",
+          "img": "https://www.asgaralihospital.com/wp-content/uploads/2017/02/gazi_ju.jpg",
+          "desc": "Deputy General Manager Marketing & Business Development"
+     }
+]

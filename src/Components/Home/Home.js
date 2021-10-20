@@ -11,13 +11,13 @@ const Home = () => {
           <div className="body">
                <div className="cover-img">
                     <div className="container">
-                         <Row className="top-banner  ">
-                              <Col xs={12} md={6} className=" topBanner-heading">
+                         <Row className="top-banner ">
+                              <Col xs={12} md={7} className=" topBanner-heading pe-5 ">
                                    <h1>We Provide Total Health Care Solution</h1>
                                    <button className=" btn ">Learn More</button>
                               </Col>
-                              <Col xs={12} md={6} className="mt-3  mx-auto d-block">
-                                   <img className="img-fluid topBanner-img " src={banner} alt=""></img>
+                              <Col xs={12} md={5} className="mt-3  mx-auto">
+                                   <img className="img-fluid topBanner-img ms-4 " src={banner} alt=""></img>
                               </Col>
                          </Row>
                     </div>
